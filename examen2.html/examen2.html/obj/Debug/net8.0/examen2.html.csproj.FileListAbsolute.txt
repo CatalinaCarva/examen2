@@ -1,0 +1,4 @@
+C:\Users\jonat\Desktop\examen 2\examen2.html\examen2.html\obj\Debug\net8.0\examen2.html.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Desktop\examen 2\examen2.html\examen2.html\obj\Debug\net8.0\examen2.html.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\examen 2\examen2.html\examen2.html\obj\Debug\net8.0\examen2.html.AssemblyInfo.cs
+C:\Users\jonat\Desktop\examen 2\examen2.html\examen2.html\obj\Debug\net8.0\examen2.html.csproj.CoreCompileInputs.cache
